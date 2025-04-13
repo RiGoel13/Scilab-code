@@ -76,7 +76,7 @@ This project models **basic logic gates (AND, AND NOT, OR, OR NOT)** using a sim
 
 ---
 
-## ???? Truth Tables Simulated
+## Truth Tables Simulated
 
 | x1 | x2 | AND | AND NOT | OR | OR NOT |
 |----|----|-----|----------|----|--------|
@@ -87,7 +87,7 @@ This project models **basic logic gates (AND, AND NOT, OR, OR NOT)** using a sim
 
 ---
 
-## ???? How to Run
+## How to Run
 
 1. Install [Scilab](https://www.scilab.org/).
 2. Open Scilab and paste the code into the editor.
@@ -104,6 +104,6 @@ This project helps understand:
 
 ---
 
-## ???? License
+## License
 
 This work is covered by the MIT License.
