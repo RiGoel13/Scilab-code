@@ -25,7 +25,7 @@ Where:
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - **Menu-driven choice** of gate type:
   - 1: AND
@@ -56,7 +56,7 @@ This project enables one to:
 - Practical application of **Scilab** to neural and logical operations
 --- 
 
-# ???? Logic Gate Simulation using Threshold Logic in Scilab
+# Logic Gate Simulation using Threshold Logic in Scilab
 
 This project models **basic logic gates (AND, AND NOT, OR, OR NOT)** using a simple **threshold logic unit (TLU)** method with Scilab. The user can choose a gate, input weights and thresholds, and update them iteratively until the gate behavior is properly simulated.
 
