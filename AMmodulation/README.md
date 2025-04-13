@@ -1,30 +1,30 @@
-# AM Modulation
+# AM Modulation in Scilab
+
+This project shows **Amplitude Modulation (AM)** implemented using Scilab, a feature-rich open-source numerical computation software. Simulation includes message and carrier signal generation, generation of the AM signal, and an **adaptive modulation index** based on message amplitude.
+
+## What's Inside
+
+- Generation of a **cosine message signal** and a **cosine carrier wave**
+- Application of **standard AM modulation**
+- **Adaptive modulation index** to accommodate varying amplitude of the message signal
+- **Visualization** of the message, carrier, and modulated signals
+- **Spectrogram analysis** of the AM signal
+
+## Requirements
+
+- [Scilab](https://www.scilab.org/) (any recent version)
 
 
-This project illustrates Amplitude Modulation (AM) with Scilab, a versatile open-source numerical computation tool. The simulation involves message and carrier signal generation, AM signal generation, and an adaptive modulation index to accommodate varying message signal amplitude.
+## Output
 
-What's Inside: 
-1 Generation of a cosine message signal and a cosine carrier wave
+- Plots for:
+  - Message signal
+  - Carrier signal
+- AM modulated signal (with and without adaptive modulation)
+- Spectrogram of the AM signal for time-frequency analysis
 
-2 Implementation of standard AM modulation
+## How to Run
 
-3 Adaptive modulation index to accommodate varying message signal amplitude
-
-4 Visualization of the message, carrier, and modulated signals
-
-5 Spectrogram analysis of the AM signal
-
-Requirements: Scilab (any recent version)
-
-Output
-Plots for:
-1 Message signal
-2 Carrier signal
-
-1 AM modulated signal (with and without adaptive modulation)
-2 Spectrogram of the AM signal for time-frequency analysis
-
-How to Run:
-1 Open Scilab.
-2 Copy and paste the script into the Scilab editor.
-3 Run the script to view the signals and spectrogram.
+1. Open Scilab.
+2. Copy and paste the script into the Scilab editor.
+3. Run the script to visualize the signals and spectrogram.
