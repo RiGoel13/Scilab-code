@@ -1,6 +1,6 @@
 # AM Modulation in Scilab
 
-This project shows **Amplitude Modulation (AM)** implemented using Scilab, a feature-rich open-source numerical computation software. Simulation includes message and carrier signal generation, generation of the AM signal, and an **adaptive modulation index** based on message amplitude.
+This project shows **Amplitude Modulation** implemented using Scilab, a feature-rich open-source numerical computation software. Simulation includes message and carrier signal generation, generation of the AM signal, and an **adaptive modulation index** based on message amplitude.
 
 ## What's Inside
 
@@ -12,7 +12,7 @@ This project shows **Amplitude Modulation (AM)** implemented using Scilab, a fea
 
 ## Requirements
 
-- [Scilab](https://www.scilab.org/) (any recent version)
+- [Scilab](https://www.scilab.org/) (any recent version available)
 
 
 ## Output
