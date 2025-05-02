@@ -3,42 +3,6 @@ This project emulates **simplified logic gates (AND, AND NOT, OR, OR NOT)** thro
 
 ---
 
-## Concept
-
-It employs a **single-layer perceptron-like structure** to mimic logic gates:
-
-- Inputs: \( x_1 \), \( x_2 \) (binary inputs)
-- Weights: \( w_1 \), \( w_2 \)
-- Output:
-  \( y = 
-  \begin{cases}
-  1 & 
-  \text{if } z_{in} \geq \theta \\
-  0 & 
-  \text{otherwise}
-  \end{cases}
-\) 
-
-Where:
-
-\[z_{in} = x_1 \cdot w_1 + x_2 \cdot w_2\]
-
----
-
-##  Features
-
-- **Menu-driven choice** of gate type:
-  - 1: AND
-  - 2: AND NOT
-  - 3: OR
-  - 4: OR NOT
-- **Weight and threshold input** on custom basis
-- **Iterative validation**:
-  - Prompt user until logic behavior is correct
-- Last display of proper weights and threshold
-
----
-
 ##  How to Run
 
 1. Install [Scilab](https://www.scilab.org/).
