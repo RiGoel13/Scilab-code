@@ -3,8 +3,8 @@ This project emulates **simplified logic gates (AND, AND NOT, OR, OR NOT)** thro
 
 ---
 
-## Concept
 
+##  Concept and Features
 It employs a **single-layer perceptron-like structure** to mimic logic gates:
 
 - Inputs: \( x_1 \), \( x_2 \) (binary inputs)
@@ -22,11 +22,6 @@ It employs a **single-layer perceptron-like structure** to mimic logic gates:
 Where:
 
 \[z_{in} = x_1 \cdot w_1 + x_2 \cdot w_2\]
-
----
-
-##  Features
-
 - **Menu-driven choice** of gate type:
   - 1: AND
   - 2: AND NOT
