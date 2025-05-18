@@ -10,7 +10,7 @@ This project shows **Amplitude Modulation** implemented using Scilab, a feature-
 - **Visualization** of the message, carrier, and modulated signals
 - **Spectrogram analysis** of the AM signal
 
-## Requirements
+## Programming language used
 
 - [Scilab](https://www.scilab.org/) (any recent version available)
 
