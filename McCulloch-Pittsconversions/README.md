@@ -39,7 +39,7 @@ Where:
 1. Install [Scilab](https://www.scilab.org/).
 2. Open Scilab and enter the code into the editor.
 3. Execute the script.
-4. Choose the gate of interest and try weights and thresholds.
+4. Try different weights and thresholds.
 
 ---
 
@@ -80,14 +80,6 @@ This project models **basic logic gates (AND, AND NOT, OR, OR NOT)** using a sim
 | 1  | 0  |  0  |    1     | 1  |   0    |
 | 1  | 1  |  1  |    0     | 1  |   0    |
 
----
-
-## How to Run
-
-1. Install [Scilab](https://www.scilab.org/).
-2. Open Scilab and paste the code into the editor.
-3. Run the script.
-4. Select the desired gate and experiment with weights and thresholds.
 ---
 
 ## Learning Outcome
