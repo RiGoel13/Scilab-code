@@ -1,6 +1,6 @@
 # Hamming Simulator
 
-This project illustrates how to **generate, transmit, detect, and correct errors** with the **Hamming (7,4) Error-Correcting Code** in Scilab.
+This project illustrates how to **generate, transmit, detect, and correct errors** with the **Hamming Error-Correcting Code** in Scilab.
 
 ---
 
