@@ -4,7 +4,7 @@ This project shows **Amplitude Modulation** implemented using Scilab, a feature-
 
 ## General Description
 
-- Generation of a **cosine message signal** and a **cosine carrier wave**
+- The generation of a **cosine message signal** and a **cosine carrier wave**
 - Application of **standard AM modulation**
 - **Adaptive modulation index** to accommodate varying amplitude of the message signal
 - **Visualization** of the message, carrier, and modulated signals
