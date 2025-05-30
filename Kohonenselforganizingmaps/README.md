@@ -22,14 +22,8 @@ This project illustrates a simple **competitive learning** algorithm using Scila
 4. Update of Weights:
    - Update only the winning neuron's weights.
 5. Learning Rate:
-   - Divided by 2 after every epoch to minimize updates with passing time.
+   - Divided by 2 after every epoch to minimize updates with passing time
 
-
-## How to Run
-
-1. Install [Scilab](https://www.scilab.org/)
-2. Copy the script into the Scilab editor
-3. Run and watch the plot windows
 
 ## Use Cases
 
