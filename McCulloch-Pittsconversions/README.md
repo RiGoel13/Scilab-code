@@ -34,10 +34,6 @@ Where:
 
 ---
 
-##  How to Run
-
-1. Install [Scilab](https://www.scilab.org/)
-
 ## Learning Outcome
 
 This project enables one to:
