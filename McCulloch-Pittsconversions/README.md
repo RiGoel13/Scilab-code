@@ -36,12 +36,7 @@ Where:
 
 ##  How to Run
 
-1. Install [Scilab](https://www.scilab.org/).
-2. Open Scilab and enter the code into the editor.
-3. Execute the script.
-4. Try different weights and thresholds.
-
----
+1. Install [Scilab](https://www.scilab.org/)
 
 ## Learning Outcome
 
