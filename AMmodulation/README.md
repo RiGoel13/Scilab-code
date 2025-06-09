@@ -3,7 +3,6 @@
 This project shows **Amplitude Modulation** implemented using Scilab, a feature-rich open-source numerical computation software. Simulation includes message and carrier signal generation, generation of the AM signal, and an **adaptive modulation index** based on message amplitude.
 
 ## General Description
-
 - The generation of a **cosine message signal** and a **cosine carrier wave**
 - Application of **standard AM modulation**
 - **Adaptive modulation index** to accommodate varying amplitude of the message signal
