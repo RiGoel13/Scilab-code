@@ -3,7 +3,6 @@ This project emulates **simplified logic gates (AND, AND NOT, OR, OR NOT)** thro
 
 ---
 
-
 ##  Concept and Features
 It employs a **single-layer perceptron-like structure** to mimic logic gates:
 
