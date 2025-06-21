@@ -10,6 +10,7 @@ This project illustrates how to **generate, transmit, detect, and correct errors
 
 ---
 
+
 ##  Features
 
 - Takes in **4-bit user data**
