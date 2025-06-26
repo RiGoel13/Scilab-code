@@ -4,6 +4,7 @@ This project illustrates how to **generate, transmit, detect, and correct errors
 
 ---
 
+
 ##  Overview
 
 **Hamming (7,4)** is a forward error-correcting code that encodes **4 data bits** into **7 bits** by adding **3 parity bits**. It can detect and correct **single-bit errors**.
