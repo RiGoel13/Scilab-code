@@ -1,4 +1,5 @@
 clear;
+
 clc;
 
 // Input patterns (4 input vectors, 4 features each)
