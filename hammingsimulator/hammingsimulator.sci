@@ -1,3 +1,4 @@
+
 // Hamming (7,4) Code Implementation in Scilab
 
 clc;
