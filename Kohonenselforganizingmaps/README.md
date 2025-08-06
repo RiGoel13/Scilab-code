@@ -1,3 +1,4 @@
+
 # Kohonen Self Organizing Maps
 Unsupervised Learning with Competitive Learning in Scilab
 This project illustrates a simple **competitive learning** algorithm using Scilab. The algorithm models a basic **unsupervised learning process** based on **Self-Organizing Maps (SOMs)**, where input vectors compete to learn the weights of neurons based on similarity.
