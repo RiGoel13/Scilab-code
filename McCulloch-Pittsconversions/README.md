@@ -1,3 +1,4 @@
+
 # McCulloch Pitts Conversion
 This project emulates **simplified logic gates (AND, AND NOT, OR, OR NOT)** through an elementary **threshold logic unit (TLU)** model in Scilab. The user selects a gate, inputs weights and thresholds, and iteratively edits them until behavior of the gate is accurately reproduced.
 ---
